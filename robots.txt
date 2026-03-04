@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chuck1537.github.io/berglo/sitemap.xml
